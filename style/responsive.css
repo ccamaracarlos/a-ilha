@@ -1,0 +1,324 @@
+
+
+@media screen  and (max-width: 1115px ){
+    .container,.nativos, .boasvindas, .bemvindo .descricao{
+        width: 1050px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 1083px ){
+    .bemvindo .descricao{
+        width: 780px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        align-items: center;
+    }
+}
+
+@media screen  and (max-width: 857px ){
+    .bemvindo .descricao{
+        width: 600px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 775px ){
+    .bemvindo .descricao{
+        width: 450px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 450px ){
+    .bemvindo .descricao{
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 590px ){
+    .bemvindo .descricao{
+        width: 375px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        align-items: center;
+    }
+}
+
+@media screen  and (max-width: 1115px ){
+    .botoes{
+        width: 1050px;
+        display: flex;
+        flex-direction: column;
+        margin: 10px;
+        align-items: center;
+    }
+}
+
+@media screen  and (max-width: 1115px ){
+    .botao{
+        width: 1050px;
+        display: flex;
+        flex-direction: column;
+        margin-top:10px;
+        width: 25em;  
+        align-items: center;
+    }
+}
+
+@media screen  and (max-width: 1083px ){
+    .container, .bemvindo, .nativos{
+        width: 821px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 1083px ){
+    .img-principal{
+        width: 821px;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen  and (max-width: 1083px ){
+    .botoes{
+        width: 800px;
+        display: flex;
+        flex-direction: column;
+        margin: 10px;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+@media screen  and (max-width: 1083px ){
+    .botao{
+        width: 800px;
+        display: flex;
+        flex-direction: column;
+        margin-top:10px;
+        width: 25em; 
+        align-items: center;
+    }
+}
+
+@media screen  and (max-width: 855px ){
+    .container, .bemvindo, .nativos{
+        width: 740px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        align-items: center;
+    }
+}
+
+@media screen  and (max-width: 855px ){
+    .botoes{
+        width: 374px;
+        display: flex;
+        flex-direction: column;
+        margin: 10px;
+        align-items: center;
+    }
+}
+
+@media screen  and (max-width: 855px ){
+    .botao{
+        width: 374px;
+        display: flex;
+        flex-direction: column;
+        margin-top:10px;
+        width: 25em; 
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 773px ){
+    .container, .bemvindo, .nativos{
+        width: 550px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 550px ){
+    .container, .bemvindo, .nativos{
+        width: 374px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-right: 40px;
+    }
+}
+
+@media screen  and (max-width: 550px ){
+    .bemvindo{
+        width: 400px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: 10px;
+    }
+}
+
+@media screen  and (max-width: 550px ){
+    .titulo{
+        margin-left: 35px;
+    }
+}
+
+@media screen  and (max-width: 550px ){
+    .botoes{
+        width: 16px;
+        display: flex;
+        flex-direction: column;
+        margin: 10px;
+        align-items: center;
+    }
+}
+
+@media screen  and (max-width: 550px ){
+    .botao{
+        display: flex;
+        flex-direction: column;
+        margin-top:10px;
+        width: 16em; 
+        margin-left: 30px;
+    }
+}
+
+@media screen  and (max-width: 550px ){
+    header .container {
+        width: 400px;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen  and (max-width: 550px ){
+     .descricao {
+       margin-left: 20px;
+    }
+}
+
+/*CARROCEL*/
+
+@media screen  and (max-width: 1115px ){
+    .slide {
+       width: 750px;
+       margin-top: 4em;
+       margin-left: 40px;
+
+   }
+}
+
+@media screen  and (max-width: 1115px ){
+   .carrocel {
+      width: 750px;
+      margin-top: 12em;
+      margin-bottom: 50px;
+      margin-left: 40px
+      ;
+  }
+}
+@media screen  and (max-width: 1083px ){
+    .slide {
+       width: 750px;
+       margin-top: 8em;
+       margin-bottom: 6px;
+       margin-left: 40px;
+
+   }
+}
+
+@media screen  and (max-width: 1083px ){
+   .carrocel {
+      width: 650px;
+      margin-top: 8em;
+      margin-bottom: 50px;
+      margin-left: -130px;
+
+  }
+}
+
+@media screen  and (max-width: 980px ){
+    .slide {
+       width: 450px;
+       margin-top: 8em;
+       margin-bottom: 6px;
+
+   }
+}
+@media screen  and (max-width: 980px ){
+    .carrocel {
+       width: 450px;
+       margin-top: 8em;
+       margin-bottom: 6px;
+       margin-left: -80px;
+ 
+   }
+ }
+ @media screen  and (max-width: 710px ){
+    .slide {
+       width: 450px;
+       margin-top: 8em;
+       margin-bottom: 6px;
+
+   }
+}
+@media screen  and (max-width: 710px ){
+    .carrocel {
+       width: 300px;
+       margin-top: 9em;
+       margin-bottom: 6px;
+       margin-left: -67px;
+ 
+   }
+ }
+ 
+ @media screen  and (max-width: 540px ){
+    .slide {
+       width: 450px;
+       margin-top: 8em;
+       margin-bottom: 6px;
+
+   }
+}
+@media screen  and (max-width: 540px ){
+    .carrocel {
+       width: 300px;
+       margin-top: 9em;
+       margin-bottom: 6px;
+       margin-left: -45px;
+ 
+   }
+ }
+ @media screen  and (max-width: 450px ){
+    .slide {
+       width: 450px;
+       margin-top: 8em;
+       margin-bottom: 8px;
+
+   }
+}
+@media screen  and (max-width: 450px ){
+    .carrocel {
+       width: 200px;
+       margin-top: 1em;
+       margin-left: 10px; 
+   }
+ }
