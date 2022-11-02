@@ -1,437 +1,382 @@
-@media screen  and (max-width: 1115px ){
-    .container,.nativos, .boasvindas, .bemvindo .descricao{
-        width: 1050px;
+
+@media screen  and (max-width: 936px ){
+    header .container, .nativos{
+        width: 830px;
         display: flex;
         flex-direction: column;
-        margin: 20px;
+        margin: 17px;
+        justify-items: center;
         align-items: center;
+        
     }
 }
-@media screen  and (max-width: 1083px ){
-    .bemvindo .descricao{
-        width: 780px;
-        display: flex;
-        flex-direction: column;
-        margin: 20px;
-        align-items: center;
+@media screen  and (max-width: 936px ){
+    header{
+        margin-bottom: -180px;
     }
 }
 
-@media screen  and (max-width: 857px ){
-    .bemvindo .descricao{
+@media screen  and (max-width: 861px ){
+    header .container, .nativos{
+        width: 830px;
+        display: flex;
+        flex-direction: column;
+        margin: 17px;
+        justify-items: center;
+        align-items: center;
+        
+    }
+}
+@media screen  and (max-width: 821px ){
+    header .container, .nativos{
+        width: 820px;
+        display: flex;
+        flex-direction: column;
+        margin: 17px;
+        justify-items: center;
+        align-items: center;
+        
+    }
+}
+@media screen  and (max-width: 750px ){
+    header .container, .nativos{
+        width: 748px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        justify-items: center;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 700px ){
+    header .container, .nativos{
+        width: 690px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        justify-items: center;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 665px ){
+    header .container, .nativos{
+        width: 630px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        justify-items: center;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 630px ){
+    header .container, .nativos{
         width: 600px;
         display: flex;
         flex-direction: column;
         margin: 20px;
+        justify-items: center;
         align-items: center;
     }
 }
-@media screen  and (max-width: 775px ){
-    .bemvindo .descricao{
+@media screen  and (max-width: 610px ){
+    header .container, .nativos{
+        width: 550px;
+        display: flex;
+        flex-direction: column;
+        margin: 20px;
+        justify-items: center;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 592px ){
+    header .container, .nativos{
         width: 450px;
         display: flex;
         flex-direction: column;
         margin: 20px;
+        justify-items: center;
         align-items: center;
     }
 }
-@media screen  and (max-width: 450px ){
-    .bemvindo .descricao{
-        width: 300px;
+@media screen  and (max-width: 490px ){
+    header .container, .nativos{
+        width: 430px;
         display: flex;
         flex-direction: column;
         margin: 20px;
+        justify-items: center;
         align-items: center;
     }
 }
-@media screen  and (max-width: 590px ){
-    .bemvindo .descricao{
-        width: 375px;
-        display: flex;
+@media screen  and (max-width: 475px ){
+    header .container, .nativos{
+        width: 410px;
+        display: flex;                         
         flex-direction: column;
-        margin: 20px;
+        margin-left: 5px;
+        justify-items: center;
         align-items: center;
-    }
-}
-
-@media screen  and (max-width: 1115px ){
-    .botoes{
-        width: 1050px;
-        display: flex;
-        flex-direction: column;
-        margin: 10px;
-        align-items: center;
-    }
-}
-
-@media screen  and (max-width: 1115px ){
-    .botao{
-        width: 1050px;
-        display: flex;
-        flex-direction: column;
-        margin-top:10px;
-        width: 25em;  
-        align-items: center;
-    }
-}
-
-@media screen  and (max-width: 1083px ){
-    .container, .bemvindo, .nativos{
-        width: 821px;
-        display: flex;
-        flex-direction: column;
-        margin: 20px;
-        align-items: center;
-    }
-}
-@media screen  and (max-width: 1083px ){
-    .img-principal{
-        width: 821px;
-        display: flex;
-        flex-direction: column;
-    }
-}
-
-@media screen  and (max-width: 1083px ){
-    .botoes{
-        width: 800px;
-        display: flex;
-        flex-direction: column;
-        margin: 10px;
-        align-items: center;
-        justify-content: space-between;
-    }
-}
-
-@media screen  and (max-width: 1083px ){
-    .botao{
-        width: 800px;
-        display: flex;
-        flex-direction: column;
-        margin-top:10px;
-        width: 25em; 
-        align-items: center;
-    }
-}
-
-@media screen  and (max-width: 855px ){
-    .container, .bemvindo, .nativos{
-        width: 740px;
-        display: flex;
-        flex-direction: column;
-        margin: 20px;
-        align-items: center;
-    }
-}
-
-@media screen  and (max-width: 855px ){
-    .botoes{
-        width: 374px;
-        display: flex;
-        flex-direction: column;
-        margin: 10px;
-        align-items: center;
-    }
-}
-
-@media screen  and (max-width: 855px ){
-    .botao{
-        width: 374px;
-        display: flex;
-        flex-direction: column;
-        margin-top:10px;
-        width: 25em; 
-        align-items: center;
-    }
-}
-@media screen  and (max-width: 773px ){
-    .container, .bemvindo, .nativos{
-        width: 550px;
-        display: flex;
-        flex-direction: column;
-        margin: 20px;
-        align-items: center;
-    }
-}
-@media screen  and (max-width: 773px ){
-    header .container{
-        width: 550px;
-        display: flex;
-        flex-direction: column;
-        margin: 20px;
-        align-items: center;
-        font-size: 16px;
-    }
-}
-@media screen  and (max-width: 550px ){
-    header .logo{
-        width: 350px;
-        font-size: 25px;
-        margin-left: 1em;
-        
-    }
-}
-@media screen  and (max-width: 550px ){
-    .container, .bemvindo, .nativos{
-        width: 350px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin-right: 40px;
-    }
-}
-
-@media screen  and (max-width: 550px ){
-    .bemvindo{
-        width: 400px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin-left: 10px;
-    }
-}
-
-@media screen  and (max-width: 550px ){
-    .titulo{
-        margin-left: 35px;
-    }
-}
-
-@media screen  and (max-width: 550px ){
-    .botoes{
-        width: 16px;
-        display: flex;
-        flex-direction: column;
-        margin: 10px;
-        align-items: center;
-    }
-}
-
-@media screen  and (max-width: 550px ){
-    .botao{
-        display: flex;
-        flex-direction: column;
-        margin-top:10px;
-        width: 16em; 
-        margin-left: 30px;
-    }
-}
-
-@media screen  and (max-width: 550px ){
-    header .container {
-        width: 400px;
-        display: flex;
-        flex-direction: column;
-    }
-}
-
-@media screen  and (max-width: 550px ){
-     .descricao {
-       margin-left: 20px;
-    }
-}
-
-/*CARROCEL*/
-
-@media screen  and (max-width: 1115px ){
-    .slide {
-       width: 750px;
-       margin-top: 4em;
-       margin-left: 40px;
-
-   }
-}
-
-@media screen  and (max-width: 1115px ){
-   .carrocel {
-      width: 750px;
-      margin-top: 12em;
-      margin-bottom: 50px;
-      margin-left: -10px
-      ;
-  }
-}
-@media screen  and (max-width: 1083px ){
-    .slide {
-       width: 750px;
-       margin-top: 8em;
-       margin-bottom: 6px;
-       margin-left: 70px;
-
-   }
-}
-
-@media screen  and (max-width: 1083px ){
-   .carrocel {
-      width: 650px;
-      margin-top: 8em;
-      margin-bottom: 50px;
-      margin-left: -130px;
-
-  }
-}
-
-@media screen  and (max-width: 980px ){
-    .slide {
-       width: 450px;
-       margin-top: 8em;
-       margin-bottom: 6px;
-
-   }
-}
-@media screen  and (max-width: 980px ){
-    .carrocel {
-       width: 450px;
-       margin-top: 8em;
-       margin-bottom: 6px;
-       margin-left: -80px;
- 
-   }
- }
- @media screen  and (max-width: 710px ){
-    .slide {
-       width: 450px;
-       margin-top: 8em;
-       margin-bottom: 6px;
-
-   }
-}
-@media screen  and (max-width: 710px ){
-    .carrocel {
-       width: 300px;
-       margin-top: 9em;
-       margin-bottom: 6px;
-       margin-left: -67px;
- 
-   }
- }
- 
- @media screen  and (max-width: 540px ){
-    .slide {
-       width: 450px;
-       margin-top: 8em;
-       margin-bottom: 6px;
-
-   }
-}
-@media screen  and (max-width: 540px ){
-    .carrocel {
-       width: 300px;
-       margin-top: 9em;
-       margin-bottom: 6px;
-       margin-left: -45px;
- 
-   }
- }
- @media screen  and (max-width: 450px ){
-    .slide {
-       width: 450px;
-       margin-top: 8em;
-       margin-bottom: 8px;
-
-   }
-}
-@media screen  and (max-width: 450px ){
-    .carrocel {
-       width: 200px;
-       margin-top: 4em;
-       margin-left: 10px; 
-   }
- }
- @media screen  and (max-width: 1115px ){
-    .lancha img{
-        width: 900px;
-        display: flex;
-        margin-left: 100px;
-
-    }
- }
- 
- @media screen  and (max-width: 1083px ){
-    .lancha img {
-        width: 750px;
-        display: flex;
-        margin-left: 10px; 
-        margin-top: 200px;
-    }
-}
-@media screen  and (max-width: 840px ){
-    .lancha img{
-        width: 500px;
-        display: flex;
-        margin-left:60px; 
-        margin-top: 200px;
-    }
-}
-@media screen  and (max-width: 660px ){
-    .lancha img{
-        width: 380px;
-        display: flex;
-        margin-left:30px; 
-        margin-top: 200px;
-    }
-}
-@media screen  and (max-width: 550px ){
-    .lancha img{
-        width: 280px;
-        display: flex;
-        margin: left 1px; 
-        margin-top: 200px;
-    }
-}
-@media screen  and (max-width: 450px ){
-    .lancha img{
-        width: 280px;
-        display: flex;
-        margin: left 1px; 
-        margin-top: 200px;
-    }
-}
-@media screen  and (max-width: 1115px ){
-    footer .rodape{
-        width: 1000px;
-        margin-left: 60px;
-    }
-}
-@media screen  and (max-width: 1100px ){
-    footer .rodape{
-        width: 900px;
-
-    }
-}
-@media screen  and (max-width: 1083px ){
-    footer .rodape{
-        width: 730px;
-        height: 9em;
         font-size: 14px;
     }
 }
-@media screen  and (max-width: 821px ){
-    footer .rodape{
-        width: 550px;
-        height: 9em;
-        margin-left: 4.5em;
-        display:inline-block;    
+@media screen  and (max-width: 450px ){
+    header .container, .nativos{
+        width: 450px;
+        display: flex;
+        flex-direction: column;
+        margin-left: -18px;
+        justify-items: center;
+        align-items: center;
+        font-size: 13px;
+    }
+}
+@media screen  and (max-width: 412px ){
+    header .container, .nativos{
+        width: 406px;
+        display: flex;
+        flex-direction: column;
+        margin-left: -18px;
+        justify-items: center;
+        align-items: center;
+        font-size: 13px;
     }
 }
 
-@media screen  and (max-width: 660px ){
-    footer .rodape{
-        width: 270px;
-        height: 9em;
-        margin-left: 14em;
-        margin-top: -2em;
-        display:inline-block;    
-        font-size: 9px;
+@media screen  and (max-width: 593px ){
+    header .logo{
+   width: 500px;
+   display: flex;
+   flex-direction: column;
+   margin-left: 20px;
+   justify-items: center;
+   align-items: center;
+   font-size: 32px;
     }
 }
-@media screen  and (max-width: 550px ){
-    footer .rodape{
-        width: 200px;
-        height: 11em;
-        margin-left: 12em;
-        margin-top: -7em;
-        display:inline-block;    
-        font-size: 9px;
+
+@media screen  and (max-width: 475px ){
+    header .logo{
+   width: 450px;
+   display: flex;
+   flex-direction: column;
+   margin-left: 11px;
+   justify-items: center;
+   align-items: center;
+   font-size: 25px;
     }
+}
+@media screen  and (max-width: 430px ){
+    header .logo{
+   width: 410px;
+   display: flex;
+   flex-direction: column;
+   margin-left: 11px;
+   margin-right: 20px;
+   justify-items: center;
+   align-items: center;
+   font-size: 22px;
+    }
+}
+@media screen  and (max-width: 410px ){
+    header .logo{
+   width: 400px;
+   display: flex;
+   flex-direction: column;
+   margin-left: 11px;
+   margin-right: 10px;
+   justify-items: center;
+   align-items: center;
+   font-size: 22px;
+    }
+}
+
+@media screen  and (max-width: 375px ){
+    header .logo{
+   width: 370px;
+   display: flex;
+   flex-direction: column;
+   margin-left: 45px;
+   margin-right: 25px;
+   justify-items: center;
+   align-items: center;
+   font-size: 24px;
+    }
+}
+@media screen  and (max-width: 360px ){
+    header .logo{
+   width: 340px;
+   display: flex;
+   flex-direction: column;
+   margin-left: 35px;
+   margin-right: 25px;
+   justify-items: center;
+   align-items: center;
+   font-size: 24px;
+    }
+}
+
+@media screen  and (max-width: 380px ){
+    header .container, .nativos{
+        width: 375px;
+        display: flex;
+        flex-direction: column;
+        margin-left: -17px;
+        justify-items: center;
+        align-items: center;
+        font-size: 13px;
+    }
+}
+@media screen  and (max-width: 360px ){
+    header .container, .nativos{
+        width: 355px;
+        display: flex;
+        flex-direction: column;
+        margin-left: -11px;
+        justify-items: center;
+        align-items: center;
+        font-size: 12.5px;
+    }
+}
+@media screen  and (max-width: 355px ){
+    header .container, .nativos{
+        width: 350px;
+        display: flex;
+        flex-direction: column;
+        margin-left: -11px;
+        justify-items: center;
+        align-items: center;
+        font-size: 13px;
+    }
+}
+@media screen  and (max-width: 340px ){
+    header .container, .nativos{
+        width: 310px;
+        display: flex;
+        flex-direction: column;
+        margin-left: -10px;
+        justify-items: center;
+        align-items: center;
+        font-size: 12px;
+    }
+}
+/*======== CABEÇALHO =========*/
+/*======== BOASVINDAS ========*/
+@media screen  and (max-width: 936px ){
+    header .boasvindas{
+        width: 310px;
+        display: flex;
+        flex-direction: column;
+        margin: 30px;
+    }
+}
+@media screen  and (max-width: 360px ){
+    header .boasvindas{
+        width: 100px;
+        display: flex;
+        flex-direction: column;
+        margin: 30px;
+    }
+}
+@media screen  and (max-width: 565px ){
+     .titulo{
+        font-size: 24px;
+    }
+}
+@media screen  and (max-width: 410px ){
+    .titulo{
+       font-size: 20px;
+   }
+}
+@media screen  and (max-width: 361px ){
+    .titulo{
+       font-size: 20px;
+   }
+}
+@media screen  and (max-width: 341px ){
+    .titulo{
+       font-size: 19px;
+   }
+}
+@media screen  and (max-width: 361px ){
+    .descricao{
+       font-size: 8.5px;
+   }
+}
+@media screen  and (max-width: 410px ){
+    .descricao{
+       font-size: 10px;
+   }
+}
+@media screen  and (max-width: 565px ){
+    .descricao{
+       font-size: 15px;
+   }
+}
+@media screen  and (max-width: 1116px ){
+    .botao{
+       font-size: 15px;
+       margin-left: -70px;
+   }
+}
+@media screen  and (max-width: 870px ){
+    .botao{
+       font-size: 15px;
+       margin-left: -110px;
+   }
+}
+@media screen  and (max-width: 750px ){
+    .botao{
+       font-size: 15px;
+       margin-left: -50px;
+   }
+}
+@media screen  and (max-width: 620px ){
+    .botao{
+       font-size: 12px;
+       margin-left: -59px;
+   }
+}
+@media screen  and (max-width: 531px ){
+    .botao{
+       font-size: 12px;
+       margin-left: -100Px;
+   }
+}
+@media screen  and (max-width: 500px ){
+    .botao{
+       font-size: 10px;
+       margin-left: -100px;
+   }
+}
+@media screen  and (max-width: 458px ){
+    .botao{
+       font-size: 10px;
+       margin-left: -130px;
+   }
+}
+@media screen  and (max-width: 424px ){
+    .botao{
+       font-size: 10px;
+       margin-left: -160px;
+   }
+}
+@media screen  and (max-width: 389px ){
+    .botao{
+       font-size: 9.5px;
+       margin-left: -175px;
+   }
+}
+@media screen  and (max-width: 364px ){
+    .botao{
+        width: 100px 100px;
+       font-size: 9px;
+       margin-left: -175px;
+   }
+}
+@media screen  and (max-width: 360px ){
+    .botao{
+       width: 100px 100px;
+       font-size: 8px;
+       margin-left: -150px;
+   }
 }
