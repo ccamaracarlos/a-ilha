@@ -122,3 +122,79 @@ header nav a:hover{
     
 }
   
+.fundo-branco{
+    width: 100%;
+    height: 300px;
+    margin-top: 195px;
+    margin-bottom: 200px;
+    background: #24ebc099;
+}
+  
+.carrocel {
+    height: 410px;
+    width: 750px;
+    overflow: hidden;
+    position:absolute;
+    top: 140%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.navigation {
+    position: absolute;
+    bottom: 20px;
+    left: 51%;
+    transform: translate(-50%);
+    display: flex;
+}
+
+.slides {
+    display: flex;
+    width: 500%;
+    height: 100%;
+    position: relative;
+    animation: slides 25s infinite ease-out;
+}
+
+@keyframes slides {
+    5%{left:0%}
+    20%{left: -100%} 
+    40%{left: -200%} 
+    60%{left: -300%}
+    80%{left: -400%}
+    100%{left:-500%}
+    100%{left: -0%}
+}
+.slide img {
+    width: 100%;
+    height: 100%;
+}
+
+
+.slide {
+    width: 20%;transition: .6s;
+    margin-left: 40px;
+}
+
+
+/*
+
+#slide1:checked ~ .sld01 {
+    margin-left: -0;
+}
+
+#slide2:checked ~ .sld01 {
+    margin-left: -20%;
+}
+
+#slide3:checked ~ .sld01 {
+    margin-left: -40%;
+}
+
+#slide4:checked ~ .sld01 {
+    margin-left: -60%;
+}
+
+#slide5:checked ~ .sld01 {
+    margin-left: -80%;
+}*/
